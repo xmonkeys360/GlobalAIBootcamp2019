@@ -5,3 +5,6 @@
 Custom Vision : https://github.com/xmonkeys360/Workshop-CustomVisionAITools
 
 ML Studio     : https://github.com/xmonkeys360/Workshop-VisualInterfaceAzureMLSWine
+
+Event Recap   : https://bit.ly/GAIBCHRECAP
+
